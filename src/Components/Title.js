@@ -1,13 +1,9 @@
 import React from "react";
 
-class Title extends React.Component{
-	render(){
-		return(
+const Title = Props =>(
 
-			<div>Title Component</div>
+	<div></div>
 
-		);
-	}
-};
+);
 
 export default Title;
